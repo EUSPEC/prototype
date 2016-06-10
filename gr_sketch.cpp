@@ -29,7 +29,7 @@ EEPROM EEPROM;
 
 char msd[64];
 
-#define INTERVAL 50
+#define INTERVAL 100
 #define PIN 35
 #define NUMPIXELS 8
 
